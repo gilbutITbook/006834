@@ -1,6 +1,6 @@
 # 모두의 아두이노
 
-<img src="cover.jpg" style="max-width: 400px" />
+<img src="cover.jpg" width="400px" height="auto" style="max-width: 400px" />
 
 ## 누구나 재미있게 아두이노 공작과 프로그래밍을 배울 수 있다!
 
